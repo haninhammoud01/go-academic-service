@@ -175,7 +175,7 @@ Or use local PostgreSQL and create database:
 ```sql
 CREATE DATABASE academic_db;
 ```
-
+ 
 **5. Run Application**
 
 ```bash
